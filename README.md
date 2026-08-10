@@ -1,1 +1,1 @@
-This repository is a container for the plain GUI. "Run arbitrary subprocess" is a placeholder function for running SCRIBE, which we are still figuring out at the moment. 
+This repository is a container for the plain GUI. "Run arbitrary subprocess" is a placeholder function for running SCRIBE, which we are still figuring out at the moment. To run this GUI, just run the python script aug7_926.py. The only required libraries are sv_ttk and subprocess.
